@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.text.ParseException;
 
-public class Main {
+public class SeperateByLine {
 
     public static void main(String[] args) throws ParseException {
         //Q4
