@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class FunnyString {
+public class Q2_FunnyString {
 
 
     public static void main(String[] args) {
