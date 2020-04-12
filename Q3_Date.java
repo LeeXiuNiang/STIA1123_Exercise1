@@ -3,7 +3,7 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.text.ParseException;
 
-public class Date {
+public class Q3_Date {
 
     public static void main(String[] args) throws ParseException {
         //Q3
